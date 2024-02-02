@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>48491647126-6uvcachi6qrnm3iv8gt8jn071243t0a0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.48491647126-6uvcachi6qrnm3iv8gt8jn071243t0a0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7a8padzRlEMjDwa-RChUljETF2qqw9NA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>48491647126</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appMovilDincydet</string>
+	<key>PROJECT_ID</key>
+	<string>gestion-dincydet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gestion-dincydet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:48491647126:ios:7793c9dbcad7e18e7432b7</string>
+</dict>
+</plist>

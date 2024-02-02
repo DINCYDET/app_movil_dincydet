@@ -1,0 +1,93 @@
+Date : 2022-12-09 09:24:21
+Directory : d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib
+Total : 53 files,  13354 codes, 206 comments, 583 blanks, all 14143 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         53 |     13,354 |        206 |        583 |     14,143 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                    | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                       |         53 |     13,354 |        206 |        583 |     14,143 |
+| src                                                                                                     |         51 |     13,212 |        192 |        573 |     13,977 |
+| src\api                                                                                                 |          2 |          2 |          3 |          2 |          7 |
+| src\fb                                                                                                  |          1 |         58 |          5 |          9 |         72 |
+| src\generators                                                                                          |          1 |        120 |          2 |          2 |        124 |
+| src\gis                                                                                                 |          1 |        148 |          3 |         14 |        165 |
+| src\home                                                                                                |          3 |        832 |         19 |         29 |        880 |
+| src\hospital                                                                                            |          6 |        708 |          0 |         35 |        743 |
+| src\login                                                                                               |          1 |        451 |          5 |         19 |        475 |
+| src\mywidgets                                                                                           |          2 |        149 |          1 |         16 |        166 |
+| src\previews                                                                                            |          2 |        123 |         16 |          6 |        145 |
+| src\proyectos                                                                                           |          4 |      2,188 |         11 |         63 |      2,262 |
+| src\qr                                                                                                  |          4 |        360 |         20 |         26 |        406 |
+| src\scanner                                                                                             |          2 |        138 |          8 |         10 |        156 |
+| src\tickets                                                                                             |          9 |      4,940 |         64 |        210 |      5,214 |
+| src\usuario                                                                                             |          5 |      2,158 |         33 |         80 |      2,271 |
+| src\utils                                                                                               |          8 |        837 |          2 |         52 |        891 |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\firebase_options.dart                | Dart     |         66 |         12 |          6 |         84 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\main.dart                            | Dart     |         76 |          2 |          4 |         82 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\api\endpoints.dart               | Dart     |          0 |          0 |          1 |          1 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\api\urls.dart                    | Dart     |          2 |          3 |          1 |          6 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\fb\fb_push.dart                  | Dart     |         58 |          5 |          9 |         72 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\generators\exportassistance.dart | Dart     |        120 |          2 |          2 |        124 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\gis\gis.dart                     | Dart     |        148 |          3 |         14 |        165 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\home\analytics.dart              | Dart     |        244 |         16 |         10 |        270 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\home\dashboard.dart              | Dart     |        346 |          1 |         14 |        361 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\home\myscaffold.dart             | Dart     |        242 |          2 |          5 |        249 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\hospital\hospital_add_cite.dart  | Dart     |        222 |          0 |          9 |        231 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\hospital\hospital_cita.dart      | Dart     |         28 |          0 |          2 |         30 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\hospital\hospital_dashboard.dart | Dart     |        283 |          0 |         14 |        297 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\hospital\hospital_doctos.dart    | Dart     |        117 |          0 |          4 |        121 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\hospital\hospital_map.dart       | Dart     |         28 |          0 |          4 |         32 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\hospital\hospital_table.dart     | Dart     |         30 |          0 |          2 |         32 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\login\login.dart                 | Dart     |        451 |          5 |         19 |        475 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\mywidgets\paginatedwidget.dart   | Dart     |        103 |          1 |          9 |        113 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\mywidgets\renderqr.dart          | Dart     |         46 |          0 |          7 |         53 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\previews\preview_img.dart        | Dart     |         34 |          1 |          3 |         38 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\previews\preview_pdf.dart        | Dart     |         89 |         15 |          3 |        107 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\proyectos\newproyectos.dart      | Dart     |        991 |          4 |         39 |      1,034 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\proyectos\projectdetail.dart     | Dart     |        381 |          0 |          8 |        389 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\proyectos\proyectos.dart         | Dart     |        397 |          7 |         14 |        418 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\proyectos\tasksbottom.dart       | Dart     |        419 |          0 |          2 |        421 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\qr\qr_reg_hospital.dart          | Dart     |         72 |          0 |          4 |         76 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\qr\qr_reg_status.dart            | Dart     |        107 |          0 |          5 |        112 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\qr\qr_reg_visits.dart            | Dart     |        109 |          0 |          8 |        117 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\qr\qrwidget.dart                 | Dart     |         72 |         20 |          9 |        101 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\scanner\myscanner.dart           | Dart     |        116 |          8 |          7 |        131 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\scanner\pdfview.dart             | Dart     |         22 |          0 |          3 |         25 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\tickets\photoview.dart           | Dart     |         49 |          9 |          7 |         65 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\tickets\regticket.dart           | Dart     |        346 |          5 |         18 |        369 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\tickets\ticketdetail.dart        | Dart     |        404 |          4 |         11 |        419 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\tickets\ticketdetail_utils.dart  | Dart     |      1,182 |         16 |         45 |      1,243 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\tickets\tickets_utils.dart       | Dart     |      1,367 |         20 |         78 |      1,465 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\tickets\ticketsin.dart           | Dart     |        477 |          3 |         12 |        492 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\tickets\ticketslist.dart         | Dart     |        201 |          0 |         15 |        216 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\tickets\ticketsout.dart          | Dart     |        492 |          3 |         12 |        507 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\tickets\ticketstable.dart        | Dart     |        422 |          4 |         12 |        438 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\usuario\myuser.dart              | Dart     |        255 |         20 |         13 |        288 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\usuario\newuser.dart             | Dart     |        695 |          9 |         33 |        737 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\usuario\users.dart               | Dart     |         74 |          0 |          5 |         79 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\usuario\userstable.dart          | Dart     |        367 |          2 |          8 |        377 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\usuario\userview.dart            | Dart     |        767 |          2 |         21 |        790 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\utils\buttons.dart               | Dart     |        137 |          0 |          6 |        143 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\utils\charts.dart                | Dart     |        384 |          1 |         21 |        406 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\utils\fields.dart                | Dart     |        139 |          0 |         11 |        150 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\utils\myalerts.dart              | Dart     |         94 |          0 |          3 |         97 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\utils\mycolors.dart              | Dart     |         10 |          0 |          2 |         12 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\utils\strfuncs.dart              | Dart     |         15 |          1 |          3 |         19 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\utils\tiles.dart                 | Dart     |         48 |          0 |          4 |         52 |
+| d:\Proyecto\App Dincydet\AppMovilDincydetV1\app_movil_dincydet\lib\src\utils\userinfo.dart              | Dart     |         10 |          0 |          2 |         12 |
+| Total                                                                                                   |          |     13,354 |        206 |        583 |     14,143 |
++---------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

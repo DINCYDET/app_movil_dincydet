@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "48491647126",
+    "project_id": "gestion-dincydet",
+    "storage_bucket": "gestion-dincydet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48491647126:android:1963f71d93687a977432b7",
+        "android_client_info": {
+          "package_name": "com.example.app_movil_dincydet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48491647126-vp5onf1eqf4ac51g2qsuloef5uji5ag5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1J7DHt-YbNlyyRheudJPL5CNE763UvGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48491647126-vp5onf1eqf4ac51g2qsuloef5uji5ag5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48491647126-6uvcachi6qrnm3iv8gt8jn071243t0a0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appMovilDincydet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
